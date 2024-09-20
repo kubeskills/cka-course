@@ -17,5 +17,5 @@ Access the Book Here: [AcingTheCKA.com](https://acingthecka.com)
 - [KubeSkills Community - Where The Course Takes Place](https://community.kubeskills.com/c/welcome-to-the-cka/)
 - [Kubernetes Jobs Report 2024](https://static.kube.careers/trend-report-2024q1.v1.pdf)
 - [Top CKA Tips Kubernetes - KodeKloud](https://youtu.be/8LJibrSurKA?si=4CaLjc1uxP2zukZJ)
-
+- [CKA Exam Changes after November 25th](https://training.linuxfoundation.org/certified-kubernetes-administrator-cka-program-changes/)
 
