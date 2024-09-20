@@ -5,7 +5,7 @@ Access the Book Here: [AcingTheCKA.com](https://acingthecka.com)
 [WEEK 1 - Meeting Recording](https://community.kubeskills.com/c/meetings/intro-to-the-course-exam-chapter-1-review)
 
 ## Slides
-- [View the Slides Here](week1/Public Copy of CKA-book-course-slides.pdf)
+[Access the Slides Here](<Public Copy of CKA-book-course-slides.pdf>)
 
 ## Links
 - [CNCF - CKA Exam](https://www.cncf.io/training/certification/cka/)
