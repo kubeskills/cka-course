@@ -8,7 +8,7 @@ Access the Book Here: [AcingTheCKA.com](https://acingthecka.com)
 [Access the Slides Here](<Public Copy of CKA-book-course-slides.pdf>)
 
 ## Links
-- [CNCF - CKA Exam](https://www.cncf.io/training/certification/cka/)
+- [CNCF - CKA Exam Detail](https://www.cncf.io/training/certification/cka/)
 - [Register for the Exam](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 - [Kubernetes Documentation](https://kubernetes.io/docs)
 - [Kubernetes Blog](https://kubernetes.io/blog)
