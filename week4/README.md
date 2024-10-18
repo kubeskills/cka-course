@@ -13,3 +13,5 @@ Access the Book Here: [AcingTheCKA.com](https://acingthecka.com)
 
 ## LINKS
 
+- [Cheat Sheet - K8s Docs](https://kubernetes.io/pt-br/docs/reference/kubectl/cheatsheet/)
+- [Node Affinity Challenge](https://killercoda.com/chadmcrowell/course/cka/node-affinity)
